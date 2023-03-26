@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, there! Enjoy your life!
+=======
+shine! Love! Enjoy!
+>>>>>>> branch2
